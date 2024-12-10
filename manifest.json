@@ -1,0 +1,11 @@
+{
+	"id": "word-like-markdown",
+	"name": "Word Like Markdown",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Attempting to create page based on Word like markdown",
+	"author": "Obsidian",
+	"authorUrl": "https://obsidian.md",
+	"fundingUrl": "https://obsidian.md/pricing",
+	"isDesktopOnly": false
+}
